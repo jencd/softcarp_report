@@ -10,3 +10,10 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept. - 1st of Oct
 
 ## What I didn't like
 * Nothing
+
+[all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
+
+![Unicorn](https://www.schleich-s.com/media/catalog/product/7/0/70524_main_v19_tp.jpg)
+
+## To learn more link
+[The carpentries](carpentries.org/team/)
