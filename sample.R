@@ -12,4 +12,4 @@ print("hello")
 ![Unicorn](https://www.schleich-s.com/media/catalog/product/7/0/70524_main_v19_tp.jpg)
 
 ## To learn more
-[The carpentries](carpentries.org)
+[The carpentries](carpentries.org/team/)
