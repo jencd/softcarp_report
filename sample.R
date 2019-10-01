@@ -9,6 +9,6 @@ print("hello")
 
 [all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
 
-![icorn](https://www.schleich-s.com/media/catalog/product/7/0/70524_main_v19_tp.jpg)
+![Unicorn](https://www.schleich-s.com/media/catalog/product/7/0/70524_main_v19_tp.jpg)
 
              
